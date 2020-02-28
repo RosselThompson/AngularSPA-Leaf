@@ -1,2 +1,2 @@
-# AngularSPA
-Ejemplo de una SPA(Single Page Application) de Facturación e Inventario desarrollada en Angular 8
+# AngularSPA - Leaf
+Proyecto Front End SPA(Single Page Application) para el sistema de Facturación e Inventario *Leaf* desarrollada en Angular 8
